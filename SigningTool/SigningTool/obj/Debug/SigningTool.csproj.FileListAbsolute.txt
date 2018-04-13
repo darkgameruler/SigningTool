@@ -1,0 +1,10 @@
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\obj\Debug\SigningTool.csprojResolveAssemblyReference.cache
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\obj\Debug\SigningTool.MainForm.resources
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\obj\Debug\SigningTool.Properties.Resources.resources
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\obj\Debug\SigningTool.csproj.GenerateResource.Cache
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\bin\Debug\SigningTool.exe.config
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\bin\Debug\SigningTool.exe
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\bin\Debug\SigningTool.pdb
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\obj\Debug\SigningTool.exe
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\obj\Debug\SigningTool.pdb
+C:\Users\RobertoRubén\Desktop\SigningTool\SigningTool\bin\Debug\BouncyCastle.Crypto.dll
