@@ -58,6 +58,16 @@ namespace SigningTool
             textBox1.Text = Convert.ToBase64String(result);
         }
 
+        private void btnDigest_Click2(object sender, EventArgs e)
+        {
+            Sha1Digest dig = new Sha1Digest();
+            byte[] msgBytes = File.ReadAllBytes(lblDocument.Text);
+            dig.BlockUpdate(msgBytes, 0, msgBytes.Length);
+            byte[] result = new byte[dig.GetDigestSize()];
+            dig.DoFinal(result, 0);
+            textBox1.Text = Convert.ToBase64String(result);
+        }
+
         private void btnFirmarDocumento_Click(object sender, EventArgs e)
         {            
             AsymmetricKeyParameter akp = ReadPrivateKey(lblFirma.Text);
